@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/www.cardanoracers.io/static/css/main.c0a216e4.css",
-    "main.js": "/www.cardanoracers.io/static/js/main.02b74bfa.js",
-    "static/js/787.f5d61c63.chunk.js": "/www.cardanoracers.io/static/js/787.f5d61c63.chunk.js",
-    "static/media/Formula1-Bold_web_0.ttf": "/www.cardanoracers.io/static/media/Formula1-Bold_web_0.7d77e146d9a9f5d930aa.ttf",
-    "static/media/wheel.png": "/www.cardanoracers.io/static/media/wheel.69dec0d54a48d6c14223.png",
-    "index.html": "/www.cardanoracers.io/index.html",
-    "main.c0a216e4.css.map": "/www.cardanoracers.io/static/css/main.c0a216e4.css.map",
-    "main.02b74bfa.js.map": "/www.cardanoracers.io/static/js/main.02b74bfa.js.map",
-    "787.f5d61c63.chunk.js.map": "/www.cardanoracers.io/static/js/787.f5d61c63.chunk.js.map"
+    "main.css": "/static/css/main.26cc1ce1.css",
+    "main.js": "/static/js/main.dd6ff794.js",
+    "static/js/787.f5d61c63.chunk.js": "/static/js/787.f5d61c63.chunk.js",
+    "static/media/Formula1-Bold_web_0.ttf": "/static/media/Formula1-Bold_web_0.7d77e146d9a9f5d930aa.ttf",
+    "static/media/wheel.png": "/static/media/wheel.69dec0d54a48d6c14223.png",
+    "index.html": "/index.html",
+    "main.26cc1ce1.css.map": "/static/css/main.26cc1ce1.css.map",
+    "main.dd6ff794.js.map": "/static/js/main.dd6ff794.js.map",
+    "787.f5d61c63.chunk.js.map": "/static/js/787.f5d61c63.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0a216e4.css",
-    "static/js/main.02b74bfa.js"
+    "static/css/main.26cc1ce1.css",
+    "static/js/main.dd6ff794.js"
   ]
 }
